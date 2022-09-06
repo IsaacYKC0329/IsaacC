@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04879495-434e-48de-b883-ef26b5bc6d60" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <updated>1662439996505</updated>
       <workItem from="1662440000070" duration="1231000" />
       <workItem from="1662441267882" duration="426000" />
-      <workItem from="1662441896454" duration="977000" />
+      <workItem from="1662441896454" duration="1294000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1662440368083</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662442211203</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create speed class">
+      <created>1662443073721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662443073721</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +148,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="create class" />
     <MESSAGE value="create" />
-    <option name="LAST_COMMIT_MESSAGE" value="create" />
+    <MESSAGE value="create speed class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create speed class" />
   </component>
 </project>
